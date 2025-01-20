@@ -1,4 +1,4 @@
-# Leveraging Unsupervised Parsing with Chain-Structural Constraint for Chinese Geographic Re-ranking
+# Geo-Encoder: A Chunk-Argument Bi-Encoder Framework for Chinese Geographic Re-Ranking
 
 This repository is the source code for the paper ["Geo-Encoder: A Chunk-Argument Bi-Encoder Framework for Chinese Geographic Re-Ranking, EACL 2024"](https://arxiv.org/pdf/2309.01606).
 
